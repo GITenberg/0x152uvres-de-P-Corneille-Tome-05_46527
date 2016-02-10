@@ -1,0 +1,44 @@
+_repo: 0x152uvres-de-P-Corneille-Tome-05_46527
+contributor:
+  creator:
+    editor:
+      agent_name: Marty-Laveaux, Charles Joseph
+      aliases:
+      - Marty-Laveaux, Ch. (Charles)
+      - Marty-Laveaux, Ch. (Charles Joseph)
+      birthdate: 1823
+      deathdate: 1899
+      gutenberg_agent_id: '37028'
+      url: http://www.gutenberg.org/2009/agents/37028
+covers:
+- cover_type: archival
+  image_path: 46527/46527-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2014-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46527'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama (Tragedy) -- 17th century'
+tableOfContents: Théodore, vierge et martyre -- Héraclius, empereur d'Orient -- Andromède
+  -- Don Sancha d'Aragon -- Nicomède.
+title: Œuvres de P. Corneille, Tome 05
+url: http://www.gutenberg.org/ebooks/46527
